@@ -1,3 +1,3 @@
 un bvc
-email van.citters.b@gmail.com
+email example@gmail.com
 pw password
